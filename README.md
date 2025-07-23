@@ -1,2 +1,2 @@
 # Data-Modeling
-star and snowflake schema
+star and snowflake schema (a.k.a Kimball approach)
